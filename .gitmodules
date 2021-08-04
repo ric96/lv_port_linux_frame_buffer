@@ -9,4 +9,5 @@
 	url = https://github.com/littlevgl/lvgl.git
 [submodule "lv_demos"]
 	path = lv_demos
-	url = https://github.com/lvgl/lv_demos
+	url = https://github.com/ric96/lv_demos.git
+	branch = update
